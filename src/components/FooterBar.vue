@@ -25,6 +25,13 @@
 
 <script>
 export default {
+  name:'FooterBar',
+  data:function () {
+    return {
+
+    }
+  },
+
 }
 </script>
 
